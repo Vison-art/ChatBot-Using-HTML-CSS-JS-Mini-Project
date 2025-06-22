@@ -1,36 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AI Chat Bot</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-<body>
+  <body>
     <div class="chat-container">
-        <div class="user-chat-box">
-
-        </div>
-        <div class="ai-chat-box">
-            <img src="images/aibot.png" alt="aibot" id="aiImage" width="10%">
-            <div class="ai-chat-area">
-                Hello ! How Can I Help you Today!
-            </div>
-        </div>
+      <div class="user-chat-box"></div>
+      <div class="ai-chat-box">
+        <img src="images/aibot.png" alt="aibot" id="aiImage" width="10%" />
+        <div class="ai-chat-area">Hello ! How Can I Help you Today!</div>
+      </div>
     </div>
 
     <div class="prompt-area">
-        <input type="text" name="prompt" id="prompt" placeholder="Message...">
-        <button id="images"><img src="images/image.svg" alt="image">
-            <input type="file" name="image" id="image" accept="images/*" hidden>
-        </button>
-        <button id="submit"><img src="images/up arrow.svg" alt="up arrow"></button>
+      <input type="text" name="prompt" id="prompt" placeholder="Message..." />
+      <button id="images">
+        <img src="images/image.svg" alt="image" />
+        <input type="file" name="image" id="image" accept="images/*" hidden />
+      </button>
+      <button id="submit">
+        <img src="images/up arrow.svg" alt="up arrow" />
+      </button>
     </div>
 
-
+    <script src="config.js"></script>
     <script src="script.js"></script>
-</body>
-
+  </body>
 </html>

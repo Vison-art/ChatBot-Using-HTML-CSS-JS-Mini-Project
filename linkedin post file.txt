@@ -1,0 +1,32 @@
+🚀 Build Smarter Chatbots with Vision! 🤖✨
+
+Just launched an AI Chatbot Interface that talks and sees! Perfect for devs and AI enthusiasts craving innovation.
+
+Why it’s cool:
+✅ Chat with Images: Upload a photo → AI analyzes it live.
+✅ Google Gemini-Powered: Human-like convos, instant replies.
+✅ Sleek UI: Smooth animations, auto-responses, modern design.
+✅ Open-Source: Clone, tweak, deploy—it’s yours!
+
+Tech in 3:
+
+HTML/CSS/JS
+
+Google Gemini API
+
+FileReader + Fetch
+
+Try it in 60 seconds:
+
+git clone https://github.com/Vison-art/ChatBot-Using-HTML-CSS-JS-Mini-Project.git
+
+Add API key
+
+Chat with text or images!
+
+🌐 GitHub Link: https://github.com/Vison-art/ChatBot-Using-HTML-CSS-JS-Mini-Project.git
+🌟 Star it if you love AI magic!
+
+#AI #Chatbots #GoogleGemini #OpenSource #WebDev
+
+PS What’s the craziest thing YOU’D make this chatbot do? 👇 Drop ideas!

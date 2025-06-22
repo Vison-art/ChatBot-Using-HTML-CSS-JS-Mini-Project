@@ -6,7 +6,9 @@ let image = document.querySelector("#images img");
 let imageInput = document.querySelector("#images input");
 
 
-const APi_Url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=Your-Api-Key";
+// console.log("API Key:",APi_Url); 
+
+
 
 let user = {
     message: null,
